@@ -1,6 +1,6 @@
 
 ; HelloWorld 32 bit assembly program 
-; commands to 
+; commands to follow
 ; assemble: nasm -f elf HelloWorld.asm
 ; compile: gcc -m32 -o helloworld Helloworld.o
 ; run: ./helloworld
